@@ -1,1 +1,1 @@
-# Deep-Q-Learning
+# Deep RL
